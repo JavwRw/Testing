@@ -1,0 +1,1 @@
+const parma = 'lat';
